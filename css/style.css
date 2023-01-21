@@ -41,7 +41,6 @@ p{
     position: absolute;
 } 
 .contents a.coming{
-    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; */
     font-size: 30px;
     letter-spacing:-7px; 
 }
@@ -52,7 +51,6 @@ p{
 }
 
 .contents a.happy{
-    color: #f5744b;
     font-size: 40px;
     font-weight:bold;
 }
@@ -64,9 +62,6 @@ p{
 
 .contents2{
     font-size: 30px;
-    font-family:'Times New Roman', Times, serif;
+    font-family:serif;
 }
 
-#link{
-    color:black;
-}
